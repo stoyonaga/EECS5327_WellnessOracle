@@ -1,6 +1,5 @@
 # WellnessOracle: A Machine Learning Approach to Suicide Ideation Classification
 
-## Abstract
 *WellnessOracle* is a text-based binary classifier that aims to predict a social media user's mental well-being based on their previous posting and/or comment history. It aims to determine signs of underlying depression so that the machine learning model can quickly determine if a user is mentally at-risk to themselves or others. Suicide, especially for the younger generation, has become an increasingly pervasive problem [8]. It has become the second-most leading cause of fatality [5] among young adults worldwide.
 
 ## Technical Details
